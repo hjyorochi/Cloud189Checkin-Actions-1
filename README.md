@@ -17,7 +17,7 @@ forked from peng4740/Cloud189Checkin-Actions
 **USER**
 ```
 123456
-24678
+246789
 ```
 **PWD**
 ```
